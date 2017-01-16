@@ -1,4 +1,4 @@
-# purescript-wait
+# purescript-aff-wait
 
 An asyncronous effect which stop for the durations.
 
