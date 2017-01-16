@@ -5,6 +5,10 @@
   "authors": [
     "aratama <aratama@example.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aratama/purescript-wait.git"
+  },  
   "license": "MIT",
   "homepage": "",
   "ignore": [
