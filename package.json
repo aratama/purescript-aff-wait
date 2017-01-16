@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aratama/purescript-wait.git"
+  },
   "scripts": {
     "pretest": "psc bower_components/purescript-*/src/**/*.purs src/**/*.purs test/**/*.purs",
     "test": "psc-bundle --module Test --main Test output/**/*.js | node",
