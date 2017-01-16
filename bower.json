@@ -1,0 +1,23 @@
+{
+  "name": "purescript-wait",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aratama <aratama@example.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-js-timers": "^2.0.0",
+    "purescript-aff": "^2.0.2",
+    "purescript-integers": "^2.1.0",
+    "purescript-datetime": "^2.0.0"
+  }
+}

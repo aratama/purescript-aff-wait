@@ -1,0 +1,17 @@
+{
+  "name": "purescript-wait",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "psc bower_components/purescript-*/src/**/*.purs src/**/*.purs test/**/*.purs",
+    "test": "psc-bundle --module Test --main Test output/**/*.js | node",
+    "build": "psc bower_components/purescript-*/src/**/*.purs src/**/*.purs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
