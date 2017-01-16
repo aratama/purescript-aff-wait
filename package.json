@@ -1,5 +1,5 @@
 {
-  "name": "purescript-wait",
+  "name": "purescript-aff-wait",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
